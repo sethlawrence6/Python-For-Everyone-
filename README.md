@@ -1,4 +1,7 @@
 # Python-For-Everyone
+Example Personal Project Problem Statement
+Based on Python for Everybody Specialization
+
 Goals
 Complete the Python for Everybody Specialization
 Boundaries / Scope
